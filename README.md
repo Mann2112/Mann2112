@@ -1,76 +1,132 @@
-<h1 align="center">Hi 👋, I'm Mann</h1>
-<h3 align="center">MERN Stack Developer | Final-Year Computer Engineering Student</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Freelance+Web+Developer;Computer+Engineering+Student;Exploring+MBA+in+Finance+%2F+Business+Analytics" alt="Typing SVG" />
-</p>
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6C63FF&height=220&section=header&text=Hi%20There,%20I'm%20Mann%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Building%20Ideas%20Into%20Reality&descAlignY=55&descSize=18" width="100%"/>
 
----
+<br/>
 
-### 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Final-Year+Computer+Engineer;Freelance+Web+Developer;Aspiring+MBA+%7C+Finance+%2B+Tech" alt="Typing SVG" />
 
-- 🎓 Final-year Computer Engineering student
-- 💻 Freelance web developer building portfolio and booking websites using the **MERN stack**
-- 🌱 Currently sharpening my skills in **React, Node.js, and system design**
-- 📈 Interested in the **Indian stock market** and personal finance
-- ⚡ Fun fact: I enjoy blending tech with business thinking
+<br/><br/>
 
----
+<a href="https://linkedin.com/in/soni-mann-0878ab283">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:sonimann2005@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Mann2112">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### 🛠️ Tech Stack
+</div>
 
-**Frontend**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
+<br/>
 
-**Backend**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
+## 🧑‍💻 About Me
 
-**Tools & Platforms**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="280"/>
 
----
+- 🎓 Final-year **Computer Engineering** student
+- 🚀 Currently deepening my skills in **React, Node.js & system design**
+- 📈 Exploring the **Indian stock market** & personal finance on the side
+- 🧠 Passion project: blending **technical depth with business strategy**
+- ⚡ Fun fact: I like solving problems on both sides of the stack 
 
-### 📌 Featured Projects
+<br clear="right"/>
 
-- **Portfolio & Booking Website** — A single-page site built for a performing artist, with a custom aesthetic theme, animated UI elements, and an integrated booking form.
-- **DevBlog** — A full-stack blogging platform inspired by Medium, built with the MERN stack.
-- *(Add more projects here as you build them — link the repo and a live demo if you have one!)*
+## 🛠️ Tech Stack
 
----
+<div align="center">
 
-### 📊 GitHub Stats
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,postman,vscode,tailwind&theme=dark" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mann2112&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mann2112&theme=radical" alt="GitHub Streak" width="48%"/>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mann2112&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<br/>
 
----
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-### 📫 Connect With Me
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-<p align="center">
-  <a href="https://linkedin.com/in/soni-mann-0878ab283"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sonimann2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+</td>
+<td valign="top" width="50%">
 
-<p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repositories.</i></p>
+### Backend & Tools
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Mann2112">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mann2112&repo=your-repo-name&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/Mann2112">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mann2112&repo=your-repo-name-2&theme=radical&hide_border=true" />
+</a>
+
+</div>
+
+> 💡 *Replace `your-repo-name` above with your actual repository names (e.g. the artist booking site, DevBlog) so the project cards pull live data automatically.*
+
+- **🎤 Portfolio & Booking Website** — Single-page site for a performing artist with a custom themed UI, animated visuals, and an integrated booking form.
+- **📝 DevBlog** — A full-stack Medium-inspired blogging platform, built end-to-end with the MERN stack.
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mann2112&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mann2112&theme=radical&hide_border=true" width="48%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mann2112&layout=compact&theme=radical&hide_border=true" width="48%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mann2112&theme=react-dark&hide_border=true" width="97%"/>
+
+</div>
+
+<br/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to discussing web development, freelance collaborations, or anything at the intersection of **tech and business**. Feel free to reach out!
+
+<a href="https://linkedin.com/in/soni-mann-0878ab283">
+  <img src="https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:sonimann2005@gmail.com">
+  <img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mann2112&color=6C63FF&style=flat-square&label=Profile+Views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:2E9EF7&height=100&section=footer" width="100%"/>
+
+</div>
