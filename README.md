@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Final-Year+Computer+Engineer;Freelance+Web+Developer;Aspiring+MBA+%7C+Finance+%2B+Tech" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Final-Year+Computer+Engineer;" alt="Typing SVG" />
 
 <br/><br/>
 
