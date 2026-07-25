@@ -39,7 +39,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,postman,vscode,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,postman,vscode&theme=dark" />
 
 </div>
 
@@ -84,9 +84,6 @@
 
 </div>
 
-> 💡 *Replace `your-repo-name` above with your actual repository names (e.g. the artist booking site, DevBlog) so the project cards pull live data automatically.*
-
-- **🎤 Portfolio & Booking Website** — Single-page site for a performing artist with a custom themed UI, animated visuals, and an integrated booking form.
 - **📝 DevBlog** — A full-stack Medium-inspired blogging platform, built end-to-end with the MERN stack.
 
 <br/>
