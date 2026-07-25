@@ -84,7 +84,7 @@
 
 </div>
 
-- **📝 DevBlog** — A full-stack Medium-inspired blogging platform, built end-to-end with the MERN stack.
+- **📝 Lumix** — A Real-time chat web application, built end-to-end with the MERN stack.
 
 <br/>
 
@@ -96,9 +96,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mann2112&theme=radical&hide_border=true" width="48%"/>
 
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mann2112&layout=compact&theme=radical&hide_border=true" width="48%"/>
-
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mann2112&theme=react-dark&hide_border=true" width="97%"/>
